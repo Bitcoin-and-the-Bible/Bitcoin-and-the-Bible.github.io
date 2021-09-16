@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Articles"
+content: |
+  These articles are short-form content that are extremely helpful in distilling some big-picture ideas.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/articles.jpg"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Books"
+content: |
+  Here is a list of some books that we have found helpful in our pursuit of understanding Bitcoin.
+button: 
+  label: "Learn more"
+  link: "#"
+image: "images/books.jpg"
