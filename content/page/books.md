@@ -25,7 +25,7 @@ items:
     content: |
       Blurb about the book here.
     button: 
-      label: "Learn More"
+      label: "Buy on Amazon"
       link: "https://www.amazon.com/dp/B091D3KR8G"
     image: "/images/books/layeredmoney.webp"
   - style: "style1 orient-right content-align-left image-position-center"
@@ -34,7 +34,7 @@ items:
     content: |
       Blurb about the book here.
     button: 
-      label: "Learn More"
+      label: "Buy on Amazon"
       link: "https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/B08ZYW2K74"
     image: "/images/books/thankgodforbitcoin.webp"
   - style: "style1 orient-left content-align-left image-position-center"
@@ -43,7 +43,7 @@ items:
     content: |
       Blurb about the book here.
     button: 
-      label: "Learn More"
+      label: "Buy on Amazon"
       link: "https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/B08725C857"
     image: "/images/books/priceoftomorrow.webp"
   - style: "style1 orient-right content-align-left image-position-center"
@@ -52,7 +52,7 @@ items:
     content: |
       Blurb about the book here.
     button: 
-      label: "Learn More"
+      label: "Buy on Amazon"
       link: "https://www.amazon.com/The-Sovereign-Individual-audiobook/dp/B07TWNP9NB"
     image: "/images/books/sovereignindividual.webp"
 ---
