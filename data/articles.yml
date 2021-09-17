@@ -5,5 +5,5 @@ content: |
   These articles are short-form content that are extremely helpful in distilling some big-picture ideas.
 button: 
   label: "Learn More"
-  link: "#"
-image: "images/articles.webp"
+  link: "/page/articles"
+image: "/images/articles.webp"

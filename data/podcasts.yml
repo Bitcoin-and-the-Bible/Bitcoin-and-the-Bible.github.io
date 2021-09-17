@@ -6,5 +6,5 @@ content: |
   Yes, there are other Bitcoin podcasts besides ours. Here are a few of our favorites!
 button: 
   label: "Learn More"
-  link: "#"
-image: "images/mic.webp"
+  link: "/page/podcasts"
+image: "/images/mic.webp"
