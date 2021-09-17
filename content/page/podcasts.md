@@ -14,7 +14,7 @@ items:
     id: "first"
     title : "The Stephan Livera Podcast"
     content: |
-      Yes, there are other Bitcoin podcasts besides ours. Here are a few of our favorites!
+      Blurb about the podcast here.
     button: 
       label: "Learn More"
       link: "https://stephanlivera.com/"
@@ -23,7 +23,7 @@ items:
     id: "second"
     title : "Bitcoin Fundamentals"
     content: |
-      Yes, there are other Bitcoin podcasts besides ours. Here are a few of our favorites!
+      Blurb about the podcast here.
     button: 
       label: "Learn More"
       link: "https://www.theinvestorspodcast.com/bitcoin-fundamentals/"
