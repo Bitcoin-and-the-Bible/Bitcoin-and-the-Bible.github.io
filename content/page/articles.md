@@ -17,7 +17,6 @@ items:
     button: 
       label: "Read It"
       link: "/resources/bitcoin.pdf"
-    # image: "/images/podcasts/stephanlivera.webp"
   - style: "style1 orient-left content-align-left image-position-center"
     title : "The Bullish Case for Bitcoin"
     content: |
@@ -25,7 +24,6 @@ items:
     button: 
       label: "Read It"
       link: "https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1"
-    # image: "/images/podcasts/stephanlivera.webp"
   - style: "style1 orient-left content-align-left image-position-center"
     title : "Gradually, then Suddenly"
     content: |
@@ -33,7 +31,6 @@ items:
     button: 
       label: "Read It"
       link: "https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/"
-    # image: "/images/podcasts/stephanlivera.webp"
   - style: "style1 orient-left content-align-left image-position-center"
     title : "Masters and Slaves of Money"
     content: |
@@ -41,7 +38,6 @@ items:
     button: 
       label: "Read It"
       link: "https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f"
-    # image: "/images/podcasts/stephanlivera.webp"
   - style: "style1 orient-left content-align-left image-position-center"
     title : "Bitcoin for Beginners: History of Money"
     content: |
@@ -49,7 +45,6 @@ items:
     button: 
       label: "Read It"
       link: "https://www.bitrawr.com/bitcoin-for-beginners"
-    # image: "/images/podcasts/stephanlivera.webp"
   - style: "style1 orient-left content-align-left image-position-center"
     title : "Bitcoin vs Gold"
     content: |
@@ -57,5 +52,4 @@ items:
     button: 
       label: "Read It"
       link: "https://www.bitrawr.com/bitcoin-vs-gold"
-    # image: "/images/podcasts/stephanlivera.webp"
 ---
