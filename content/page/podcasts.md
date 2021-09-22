@@ -14,7 +14,7 @@ items:
     id: "first"
     title : "The Stephan Livera Podcast"
     content: |
-      Blurb about the podcast here.
+      Stephan Livera does a phenomenal job of interviewing highly technical subject matter experts, and explaining very complicated concepts in a way that is accessible to even non-technical listeners.
     button: 
       label: "Learn More"
       link: "https://stephanlivera.com/"
@@ -23,7 +23,7 @@ items:
     id: "second"
     title : "Bitcoin Fundamentals"
     content: |
-      Blurb about the podcast here.
+      The Bitcoin Fundamentals series is a great set of interviews of some of the most influential thought leaders in the Bitcoin space. There's a ton of great content here, and Preston Pysh is always an entertaining host.
     button: 
       label: "Learn More"
       link: "https://www.theinvestorspodcast.com/bitcoin-fundamentals/"
