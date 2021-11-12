@@ -5,7 +5,6 @@ content: |
 pictures:
   - title: "Will"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    # image: "images/hosts/pleberean.jpg"
     thumb: "images/hosts/pleberean_crop.jpg"
     button: "Details"
 
