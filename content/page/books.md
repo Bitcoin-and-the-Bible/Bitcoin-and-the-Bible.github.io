@@ -55,4 +55,13 @@ items:
       label: "Buy on Amazon"
       link: "https://www.amazon.com/The-Sovereign-Individual-audiobook/dp/B07TWNP9NB"
     image: "/images/books/sovereignindividual.webp"
+  - style: "style1 orient-left content-align-left image-position-center"
+    id: "second"
+    title : "The Bitcoin Bride"
+    content: |
+      The Bitcoin Bride by Chris Brady is a fictional novel that is highly accessible and a clever way to learn and teach Bitcoin. For many people, the difficulty of learning Bitcoin can be an obstacle to their process of embracing it as sound money and this book is one of the best ways to overcome this obstacle. Chris Brady skillfully wraps the details of what sound money is, how Bitcoin works, and how to address the common objections to Bitcoin in a story of how a young, talented man who works for a Bitcoin company is incentivized by his girlfriend’s father to teach him Bitcoin as a prerequisite for engagement. The interaction is playful and pleasant and communicates the details of Bitcoin in an accurate and concise way. We highly recommend this as a very useful tool for all ages of readers and for those who want a smooth on-ramp to Bitcoin.
+    button: 
+      label: "Buy on Amazon"
+      link: "https://www.amazon.com/dp/B09HR7P1WX"
+    image: "/images/books/bitcoinbride.webp"
 ---
