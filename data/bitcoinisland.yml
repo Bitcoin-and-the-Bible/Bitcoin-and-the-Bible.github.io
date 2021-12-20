@@ -5,5 +5,6 @@ content: |
   Found in Episode 3 of Season 1 (Bitcoin as Money), this story is a simple way to understand Bitcoin without needing to talk about computers or fancy cryptography.
 button: 
   label: "Read it!"
-  link: "https://docs.google.com/document/d/e/2PACX-1vRRx3dT8Y11EvEqRMntQRdkcrboiagULVD_YimG8xj6FvMOJv6UxyKjzKv-ci-et4O_l-QVAgX8tbsu/pub"
+  # link: "https://docs.google.com/document/d/e/2PACX-1vRRx3dT8Y11EvEqRMntQRdkcrboiagULVD_YimG8xj6FvMOJv6UxyKjzKv-ci-et4O_l-QVAgX8tbsu/pub"
+  link: /posts/island
 image: "/images/bitcoinisland.webp"
