@@ -65,7 +65,7 @@ Video guides:
 
 # Cold Wallets
 
-Cold Wallets are easy to use, but are not free. Make sure that you purchase directly from the manufacturer and DO NOT purchase a used wallet. Once you have one or more, you can secure your Bitcoin for long term storage and higher security. There are multiple reputable cold wallets (ColdCard, Ledger, Trezor, and more), but we recommend the ColdCard ([www.coldcard.com](https://www.coldcard.com)) as it provides the security of storing your private key on a device that is not internet-enabled and can be isolated electrically from your computer if needed. You will need to download and install a desktop bitcoin wallet to work with your ColdCard. ([Sparrow](https://sparrowwallet.com) wallet is a great option, and they have an [excellent guide for setting up your coldcard](https://sparrowwallet.com/docs/coldcard-wallet.html).)
+Cold Wallets are easy to use, but are not free. Make sure that you purchase directly from the manufacturer and DO NOT purchase a used wallet. Once you have one or more, you can secure your Bitcoin for long term storage and higher security. There are multiple reputable cold wallets (ColdCard, Ledger, Trezor, and more), but we recommend the [Coldcard](https://www.coldcard.com) as it provides the security of storing your private key on a device that is not internet-enabled and can be isolated electrically from your computer if needed. You will need to download and install a desktop bitcoin wallet to work with your ColdCard. ([Sparrow](https://sparrowwallet.com) wallet is a great option, and they have an [excellent guide for setting up your coldcard](https://sparrowwallet.com/docs/coldcard-wallet.html).)
 
 Video guides:
 
