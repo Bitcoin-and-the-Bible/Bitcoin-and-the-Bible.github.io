@@ -42,7 +42,7 @@ We would recommend avoiding using large exchanges like BlockFi, Binance, Coinbas
 
 After purchasing your Bitcoin, the next step is to change the ownership of your Bitcoin to a private key controlled by a wallet. Bitcoin is NOT stored on any device and therefore a wallet is a poor name. Think of it as a device that allows for safe, convenient storage of your private key that authenticates your Bitcoin ownership on the distributed ledger. An example I often use is a (unforgeable!) wax signet ring - anyone can create a transaction, but nobody will accept it unless it has been signed by the corresponding ring. 
 
-Learning how to protect your money by holding your own private key is an important step for all new Bitcoiners. We recommend using either a Hot Wallet such as Muun or BlueWallet on your phone or a Cold Wallet that is disconnected from your computer such as the ColdCard. 
+Learning how to protect your money by holding your own private key is an important step for all new Bitcoiners. We recommend using either a Hot Wallet such as Muun or BlueWallet on your phone or a Cold Wallet that is disconnected from your computer such as the Coldcard. 
 
 
 ## Hot Wallets
@@ -65,7 +65,7 @@ Video guides:
 
 # Cold Wallets
 
-Cold Wallets are easy to use, but are not free. Make sure that you purchase directly from the manufacturer and DO NOT purchase a used wallet. Once you have one or more, you can secure your Bitcoin for long term storage and higher security. There are multiple reputable cold wallets (ColdCard, Ledger, Trezor, and more), but we recommend the [Coldcard](https://www.coldcard.com) as it provides the security of storing your private key on a device that is not internet-enabled and can be isolated electrically from your computer if needed. You will need to download and install a desktop bitcoin wallet to work with your ColdCard. ([Sparrow](https://sparrowwallet.com) wallet is a great option, and they have an [excellent guide for setting up your coldcard](https://sparrowwallet.com/docs/coldcard-wallet.html).)
+Cold Wallets are easy to use, but are not free. Make sure that you purchase directly from the manufacturer and DO NOT purchase a used wallet. Once you have one or more, you can secure your Bitcoin for long term storage and higher security. There are multiple reputable cold wallets (Coldcard, Ledger, Trezor, and more), but we recommend the [Coldcard](https://www.coldcard.com) as it provides the security of storing your private key on a device that is not internet-enabled and can be isolated electrically from your computer if needed. You will need to download and install a desktop bitcoin wallet to work with your Coldcard. ([Sparrow](https://sparrowwallet.com) wallet is a great option, and they have an [excellent guide for setting up your coldcard](https://sparrowwallet.com/docs/coldcard-wallet.html).)
 
 Video guides:
 
